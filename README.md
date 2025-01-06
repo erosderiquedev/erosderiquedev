@@ -1,4 +1,6 @@
-## Hi there 👋
+##👋 Hello! I'm Eros Derique Utui
+
+Aspiring Software Engineer exploring Jetpack Compose, Spring Boot, and Django.
 
 <!--
 **erosderiquedev/erosderiquedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
